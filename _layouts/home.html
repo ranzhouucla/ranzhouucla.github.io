@@ -34,6 +34,10 @@ layout: page
         </a>
       </div>
       {% endif %}
+      
+      <div class="post-entry">
+        {{ post.content }}
+      </div>
       {% endif %}
 
       <a href="{{ post.url | absolute_url }}">
