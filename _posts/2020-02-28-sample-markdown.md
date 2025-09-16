@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: About Me
 subtitle: 
 gh-repo: daattali/beautiful-jekyll
