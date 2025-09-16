@@ -15,9 +15,9 @@ author: Ran Zhou
 I am a third-year PhD student in Finance at the UCLA Anderson School of Management.
 My research focuses on **sovereign wealth funds, global capital flows, and international finance**.
 
-### Research
+### Working Papers
 
-- **Working Paper**: [📄 *Sovereign Wealth Funds: Diplomatic Tools in Global Investment*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5448434)
+- [📄 *Sovereign Wealth Funds: Diplomatic Tools in Global Investment*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5448434)
 
 ### Teaching
 
