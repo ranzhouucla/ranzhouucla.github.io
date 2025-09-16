@@ -17,7 +17,7 @@ My research focuses on **sovereign wealth funds, global capital flows, and inter
 
 ### Research
 
-- 📄 [Working Paper: *Sovereign Wealth Funds: Diplomatic Tools in Global Investment*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5448434)
+- **Working Paper**: [📄 *Sovereign Wealth Funds: Diplomatic Tools in Global Investment*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5448434)
 
 ### Teaching
 
