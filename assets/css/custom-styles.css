@@ -1,0 +1,53 @@
+/* Custom styles for avatar and spacing adjustments */
+
+/* Make navbar title smaller */
+.navbar-custom .navbar-brand {
+  font-size: 0.9rem !important;
+  line-height: 1.2 !important;
+}
+
+/* Make avatar larger - 50% increase */
+.navbar-custom .avatar-container {
+  width: 7.5rem !important;
+  bottom: -3rem !important;
+}
+
+@media (min-width: 1200px) {
+  .navbar-custom.top-nav-regular .avatar-container {
+    width: 12rem !important;
+    bottom: -3.5rem !important;
+  }
+}
+
+@media (max-width: 1199px) {
+  .navbar-custom .avatar-container {
+    width: 8rem !important;
+    bottom: -3.2rem !important;
+  }
+}
+
+/* Increase spacing between avatar and page title "Ran Zhou" */
+.intro-header {
+  height: 12rem !important;
+  padding-top: 2rem !important;
+}
+
+@media (max-width: 1199px) {
+  .intro-header {
+    height: 14rem !important;
+    padding-top: 2.5rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .intro-header {
+    height: 16rem !important;
+    padding-top: 3rem !important;
+  }
+}
+
+/* Ensure page title has proper spacing */
+.page-heading h1 {
+  margin-top: 1.5rem !important;
+  margin-bottom: 1rem !important;
+}
