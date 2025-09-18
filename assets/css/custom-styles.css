@@ -93,8 +93,8 @@
 /* Add avatar to the page - full image, not circle, 4x larger */
 .page-heading::after {
   content: '' !important;
-  width: 13.8rem !important;
-  height: 13.8rem !important;
+  width: 11.8rem !important;
+  height: 11.8rem !important;
   background-image: url('/assets/img/ran_phd.png') !important;
   background-size: contain !important;
   background-position: center !important;
