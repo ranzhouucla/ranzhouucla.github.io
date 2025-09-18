@@ -1,5 +1,51 @@
 /* Custom styles for avatar and spacing adjustments */
 
+/* Professional fonts for resume-style appearance */
+body, p, div, span, li, td, th {
+  font-family: 'Times New Roman', 'Georgia', 'Palatino Linotype', 'Book Antiqua', 'serif' !important;
+  font-size: 1.1rem !important;
+  line-height: 1.6 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Times New Roman', 'Georgia', 'Palatino Linotype', 'Book Antiqua', 'serif' !important;
+  font-weight: bold !important;
+  letter-spacing: 0.5px !important;
+}
+
+.navbar-custom .navbar-brand {
+  font-family: 'Times New Roman', 'Georgia', 'Palatino Linotype', 'Book Antiqua', 'serif' !important;
+  font-weight: bold !important;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  font-family: 'Times New Roman', 'Georgia', 'Palatino Linotype', 'Book Antiqua', 'serif' !important;
+  font-weight: 500 !important;
+}
+
+/* Make content more professional looking */
+.post-content {
+  font-family: 'Times New Roman', 'Georgia', 'Palatino Linotype', 'Book Antiqua', 'serif' !important;
+}
+
+.post-content h3 {
+  font-size: 1.3rem !important;
+  margin-top: 1.5rem !important;
+  margin-bottom: 0.8rem !important;
+}
+
+.post-content p {
+  margin-bottom: 1rem !important;
+}
+
+.post-content ul {
+  margin-bottom: 1rem !important;
+}
+
+.post-content li {
+  margin-bottom: 0.3rem !important;
+}
+
 /* Make navbar title smaller */
 .navbar-custom .navbar-brand {
   font-size: 0.9rem !important;
@@ -60,7 +106,7 @@
   display: flex !important;
   align-items: center !important;
   justify-content: space-between !important;
-  margin-top: -2rem !important;
+  margin-top: -3rem !important;
   margin-bottom: 1rem !important;
   position: relative !important;
 }
