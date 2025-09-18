@@ -60,7 +60,7 @@
   display: flex !important;
   align-items: center !important;
   justify-content: space-between !important;
-  margin-top: 1.5rem !important;
+  margin-top: 0.5rem !important;
   margin-bottom: 1rem !important;
   position: relative !important;
 }
@@ -102,6 +102,13 @@
   border-radius: 0 !important;
   margin-left: 1rem !important;
   flex-shrink: 0 !important;
+  display: block !important;
+}
+
+/* Force override with higher specificity */
+.intro-header .container-md .row .col-xl-8 .page-heading::after {
+  width: 4.6rem !important;
+  height: 4.6rem !important;
 }
 
 @media (max-width: 768px) {
@@ -113,5 +120,11 @@
     width: 3.45rem !important;
     height: 3.45rem !important;
     margin-left: 0.5rem !important;
+  }
+  
+  /* Force override with higher specificity for mobile */
+  .intro-header .container-md .row .col-xl-8 .page-heading::after {
+    width: 3.45rem !important;
+    height: 3.45rem !important;
   }
 }
