@@ -60,7 +60,7 @@
   display: flex !important;
   align-items: center !important;
   justify-content: space-between !important;
-  margin-top: 0.5rem !important;
+  margin-top: -1rem !important;
   margin-bottom: 1rem !important;
   position: relative !important;
 }
@@ -93,8 +93,8 @@
 /* Add avatar to the page - full image, not circle, 4x larger */
 .page-heading::after {
   content: '' !important;
-  width: 18.4rem !important;
-  height: 18.4rem !important;
+  width: 13.8rem !important;
+  height: 13.8rem !important;
   background-image: url('/assets/img/ran_phd.png') !important;
   background-size: contain !important;
   background-position: center !important;
