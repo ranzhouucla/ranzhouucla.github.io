@@ -24,8 +24,8 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  LinkIn: "https://www.linkedin.com/in/ran-zhou-353bb470/"
-  SSRN Author Page: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=8011124"
+  CV: "/Ran Zhou CV.pdf"
+#  SSRN Author Page: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=8011124"
 
 ################
 # --- Logo --- #
