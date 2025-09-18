@@ -90,17 +90,17 @@
   border-radius: 50% !important;
 }
 
-/* Add avatar to the page - full image, not circle, 30% larger */
+/* Add avatar to the page - full image, not circle, 50% larger */
 .page-heading::after {
   content: '' !important;
-  width: 10.4rem !important;
-  height: 10.4rem !important;
+  width: 15.6rem !important;
+  height: 15.6rem !important;
   background-image: url('/assets/img/ran_phd.png') !important;
   background-size: contain !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
   border-radius: 0 !important;
-  margin-left: 2rem !important;
+  margin-left: 4rem !important;
   flex-shrink: 0 !important;
 }
 
@@ -110,8 +110,8 @@
   }
   
   .page-heading::after {
-    width: 7.8rem !important;
-    height: 7.8rem !important;
-    margin-left: 1rem !important;
+    width: 11.7rem !important;
+    height: 11.7rem !important;
+    margin-left: 2rem !important;
   }
 }
