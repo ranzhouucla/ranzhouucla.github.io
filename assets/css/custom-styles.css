@@ -46,46 +46,71 @@
   }
 }
 
-/* Create a flex container for title and avatar */
+/* Reset avatar position from navbar */
+.navbar-custom .avatar-container {
+  display: none !important;
+}
+
+/* Create a header section with title and avatar side by side */
+.intro-header .container-md .row .col-xl-8 {
+  position: relative !important;
+}
+
 .page-heading {
   display: flex !important;
   align-items: center !important;
   justify-content: space-between !important;
   margin-top: 1.5rem !important;
   margin-bottom: 1rem !important;
-}
-
-/* Make page title smaller and position it on the left */
-.page-heading h1 {
-  font-size: 1.5rem !important;
-  margin: 0 !important;
-  flex: 1 !important;
-  text-align: left !important;
-}
-
-/* Position avatar to the right of the title */
-.navbar-custom .avatar-container {
-  position: absolute !important;
-  top: auto !important;
-  left: auto !important;
-  right: 2rem !important;
-  bottom: auto !important;
-  transform: translateY(-50%) !important;
-  margin-top: 1.5rem !important;
-}
-
-/* Adjust intro-header to accommodate new layout */
-.intro-header {
   position: relative !important;
+}
+
+/* Make page title larger - twice the size of About Me */
+.page-heading h1 {
+  font-size: 3rem !important;
+  margin: 0 !important;
+  text-align: left !important;
+  flex: 1 !important;
+  font-weight: bold !important;
+}
+
+/* Create a new avatar in the page content area */
+.page-avatar {
+  width: 8rem !important;
+  height: 8rem !important;
+  border-radius: 50% !important;
+  margin-left: 2rem !important;
+  flex-shrink: 0 !important;
+}
+
+.page-avatar img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+}
+
+/* Add avatar to the page */
+.page-heading::after {
+  content: '' !important;
+  width: 8rem !important;
+  height: 8rem !important;
+  background-image: url('/assets/img/ran_university.png') !important;
+  background-size: cover !important;
+  background-position: center !important;
+  border-radius: 50% !important;
+  margin-left: 2rem !important;
+  flex-shrink: 0 !important;
 }
 
 @media (max-width: 768px) {
   .page-heading h1 {
-    font-size: 1.2rem !important;
+    font-size: 2.4rem !important;
   }
   
-  .navbar-custom .avatar-container {
-    right: 1rem !important;
+  .page-heading::after {
     width: 6rem !important;
+    height: 6rem !important;
+    margin-left: 1rem !important;
   }
 }
