@@ -46,8 +46,46 @@
   }
 }
 
-/* Ensure page title has proper spacing */
-.page-heading h1 {
+/* Create a flex container for title and avatar */
+.page-heading {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
   margin-top: 1.5rem !important;
   margin-bottom: 1rem !important;
+}
+
+/* Make page title smaller and position it on the left */
+.page-heading h1 {
+  font-size: 1.5rem !important;
+  margin: 0 !important;
+  flex: 1 !important;
+  text-align: left !important;
+}
+
+/* Position avatar to the right of the title */
+.navbar-custom .avatar-container {
+  position: absolute !important;
+  top: auto !important;
+  left: auto !important;
+  right: 2rem !important;
+  bottom: auto !important;
+  transform: translateY(-50%) !important;
+  margin-top: 1.5rem !important;
+}
+
+/* Adjust intro-header to accommodate new layout */
+.intro-header {
+  position: relative !important;
+}
+
+@media (max-width: 768px) {
+  .page-heading h1 {
+    font-size: 1.2rem !important;
+  }
+  
+  .navbar-custom .avatar-container {
+    right: 1rem !important;
+    width: 6rem !important;
+  }
 }
