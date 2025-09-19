@@ -23,8 +23,13 @@ My research focuses on **sovereign wealth funds, global capital flows, and inter
 
 - **Teaching Assistant**: *Management 408 — Foundations of Finance (MBA)*
 
+### Working Experience
+
+- Senior Researcher at **Silk Road Fund**, the only Chinese Sovereign Wealth Fund established to support the Belt and Road Initiative
+- Analyst, Institutional Client Business, **BlackRock Hong Kong**
+
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/ran-zhou-353bb470/)  
-- [SSRN Author Page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=8011124)
+<!--[SSRN Author Page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=8011124)-->
 - Email: <ran.zhou.phd@anderson.ucla.edu>
