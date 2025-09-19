@@ -24,8 +24,8 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  LinkIn: "https://www.linkedin.com/in/ran-zhou-353bb470/"
-  SSRN Author Page: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=8011124"
+  CV: "/Ran Zhou CV .pdf"
+#  SSRN Author Page: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=8011124"
 
 ################
 # --- Logo --- #
@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/ran_university.png"
+avatar: "/assets/img/ran_phd.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
@@ -160,8 +160,8 @@ footer-hover-col: "#0085A1"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:

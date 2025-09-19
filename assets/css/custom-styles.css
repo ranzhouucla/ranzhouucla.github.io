@@ -1,0 +1,176 @@
+/* Custom styles for avatar and spacing adjustments */
+
+/* Professional fonts for resume-style appearance  */
+body, p, div, span, li, td, th {
+  font-family: 'Times New Roman', 'Georgia', 'Palatino Linotype', 'Book Antiqua', 'serif' !important;
+  font-size: 1.1rem !important;
+  line-height: 1.6 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Times New Roman', 'Georgia', 'Palatino Linotype', 'Book Antiqua', 'serif' !important;
+  font-weight: bold !important;
+  letter-spacing: 0.5px !important;
+}
+
+.navbar-custom .navbar-brand {
+  font-family: 'Times New Roman', 'Georgia', 'Palatino Linotype', 'Book Antiqua', 'serif' !important;
+  font-weight: bold !important;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  font-family: 'Times New Roman', 'Georgia', 'Palatino Linotype', 'Book Antiqua', 'serif' !important;
+  font-weight: 500 !important;
+}
+
+/* Make content more professional looking */
+.post-content {
+  font-family: 'Times New Roman', 'Georgia', 'Palatino Linotype', 'Book Antiqua', 'serif' !important;
+}
+
+.post-content h3 {
+  font-size: 1.3rem !important;
+  margin-top: 1.5rem !important;
+  margin-bottom: 0.8rem !important;
+}
+
+.post-content p {
+  margin-bottom: 1rem !important;
+}
+
+.post-content ul {
+  margin-bottom: 1rem !important;
+}
+
+.post-content li {
+  margin-bottom: 0.3rem !important;
+}
+
+/* Make navbar title smaller */
+.navbar-custom .navbar-brand {
+  font-size: 0.9rem !important;
+  line-height: 1.2 !important;
+}
+
+/* Make avatar larger - 50% increase */
+.navbar-custom .avatar-container {
+  width: 7.5rem !important;
+  bottom: -3rem !important;
+}
+
+@media (min-width: 1200px) {
+  .navbar-custom.top-nav-regular .avatar-container {
+    width: 12rem !important;
+    bottom: -3.5rem !important;
+  }
+}
+
+@media (max-width: 1199px) {
+  .navbar-custom .avatar-container {
+    width: 8rem !important;
+    bottom: -3.2rem !important;
+  }
+}
+
+/* Increase spacing between avatar and page title "Ran Zhou" */
+.intro-header {
+  height: 12rem !important;
+  padding-top: 2rem !important;
+}
+
+@media (max-width: 1199px) {
+  .intro-header {
+    height: 14rem !important;
+    padding-top: 2.5rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .intro-header {
+    height: 16rem !important;
+    padding-top: 3rem !important;
+  }
+}
+
+/* Reset avatar position from navbar */
+.navbar-custom .avatar-container {
+  display: none !important;
+}
+
+/* Create a header section with title and avatar side by side */
+.intro-header .container-md .row .col-xl-8 {
+  position: relative !important;
+}
+
+.page-heading {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  margin-top: -3rem !important;
+  margin-bottom: 1rem !important;
+  position: relative !important;
+}
+
+/* Make page title larger - twice the size of About Me */
+.page-heading h1 {
+  font-size: 3rem !important;
+  margin: 0 !important;
+  text-align: left !important;
+  flex: 1 !important;
+  font-weight: bold !important;
+}
+
+/* Create a new avatar in the page content area */
+.page-avatar {
+  width: 8rem !important;
+  height: 8rem !important;
+  border-radius: 50% !important;
+  margin-left: 2rem !important;
+  flex-shrink: 0 !important;
+}
+
+.page-avatar img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+}
+
+/* Add avatar to the page - full image, not circle, 4x larger */
+.page-heading::after {
+  content: '' !important;
+  width: 11.8rem !important;
+  height: 11.8rem !important;
+  background-image: url('/assets/img/ran_phd.png') !important;
+  background-size: contain !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  border-radius: 0 !important;
+  margin-left: 1rem !important;
+  flex-shrink: 0 !important;
+  display: block !important;
+}
+
+/* Force override with higher specificity */
+.intro-header .container-md .row .col-xl-8 .page-heading::after {
+  width: 18.4rem !important;
+  height: 18.4rem !important;
+}
+
+@media (max-width: 768px) {
+  .page-heading h1 {
+    font-size: 2.4rem !important;
+  }
+  
+  .page-heading::after {
+    width: 13.8rem !important;
+    height: 13.8rem !important;
+    margin-left: 0.5rem !important;
+  }
+  
+  /* Force override with higher specificity for mobile */
+  .intro-header .container-md .row .col-xl-8 .page-heading::after {
+    width: 13.8rem !important;
+    height: 13.8rem !important;
+  }
+}
