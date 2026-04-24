@@ -13,7 +13,7 @@ author: Ran Zhou
 ### About Me
 
 I am a third-year PhD student in Finance at the UCLA Anderson School of Management.
-My research focuses on **sovereign wealth funds, global capital flows, and international finance**.
+My research focuses on **sovereign wealth funds, global capital flows, international finance, and private equity**.
 
 ### Working Papers
 
@@ -25,8 +25,8 @@ My research focuses on **sovereign wealth funds, global capital flows, and inter
 
 ### Working Experience
 
-- Senior Researcher at **Silk Road Fund**, the only Chinese Sovereign Wealth Fund established to support the Belt and Road Initiative
-- Analyst, Institutional Client Business, **BlackRock Hong Kong**
+- Senior Researcher at **Silk Road Fund**, the Chinese Sovereign Wealth Fund established to support the Belt and Road Initiative, 2020--2022
+- Analyst, Institutional Client Business, **BlackRock Hong Kong**, 2018--2020
 
 ### Contact
 
