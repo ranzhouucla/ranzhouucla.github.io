@@ -25,8 +25,8 @@ My research focuses on **sovereign wealth funds, global capital flows, internati
 
 ### Education
 
-- **School of Economics and Management, Tsinghua University**, 2015--2018
-- **School of Insurance, Central University of Finance and Economics**, 2011--2015
+- **Master of Finance**, School of Economics and Management, Tsinghua University, 2015--2018
+- **Bachelor of Economics**, School of Insurance, Central University of Finance and Economics, 2011--2015
 
 ### Working Experience
 
