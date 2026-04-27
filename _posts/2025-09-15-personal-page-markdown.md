@@ -23,6 +23,11 @@ My research focuses on **sovereign wealth funds, global capital flows, internati
 
 - **Teaching Assistant**: *Management 408 — Foundations of Finance (MBA)*
 
+### Education
+
+- **School of Economics and Management, Tsinghua University**, 2015--2018
+- **School of Insurance, Central University of Finance and Economics**, 2011--2015
+
 ### Working Experience
 
 - Senior Researcher at **Silk Road Fund**, the Chinese Sovereign Wealth Fund established to support the Belt and Road Initiative, 2020--2022
