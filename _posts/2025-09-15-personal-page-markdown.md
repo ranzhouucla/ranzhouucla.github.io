@@ -21,17 +21,17 @@ My research focuses on **sovereign wealth funds, global capital flows, internati
 
 ### Teaching
 
-- **Teaching Assistant**: *Management 408 — Foundations of Finance (MBA)*
-
-### Education
-
-- **Master of Finance**, School of Economics and Management, Tsinghua University, 2015--2018
-- **Bachelor of Economics**, School of Insurance, Central University of Finance and Economics, 2011--2015
+- Teaching Assistant for Professor Barney Hartman-Glaser: *Management 408 — Foundations of Finance (MBA)*
 
 ### Working Experience
 
-- Senior Researcher at **Silk Road Fund**, the Chinese Sovereign Wealth Fund established to support the Belt and Road Initiative, 2020--2022
-- Analyst, Institutional Client Business, **BlackRock Hong Kong**, 2018--2020
+- Senior Researcher at Silk Road Fund, the Chinese Sovereign Wealth Fund established to support the Belt and Road Initiative, 2020--2023
+- Analyst, Institutional Client Business, BlackRock, 2018--2020
+
+### Education
+
+- Master of Finance, School of Economics and Management, Tsinghua University, 2015--2018
+- Bachelor of Economics, School of Insurance, Central University of Finance and Economics, 2011--2015
 
 ### Contact
 
