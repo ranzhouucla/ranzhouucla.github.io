@@ -25,7 +25,7 @@ My research focuses on **sovereign wealth funds, global capital flows, internati
 
 ### Teaching
 
-- Teaching Assistant for Professor Barney Hartman-Glaser: *Foundations of Finance (MBA Core Course)*
+- Teaching Assistant for Professor Barney Hartman-Glaser: *Foundations of Finance (MBA)*
 
 ### Working Experience
 
