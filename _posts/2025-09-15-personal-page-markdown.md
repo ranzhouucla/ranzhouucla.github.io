@@ -18,7 +18,7 @@ My research focuses on **sovereign wealth funds, global capital flows, internati
 ### Working Papers
 
 - [📄 *Geofinance: Following Sovereign Capital Home*](/assets/papers/geofinance.pdf)  
-  I show that sovereign wealth fund financing redirects recipient activity toward SWF home countries, especially when external finance is costly, and creates bilateral links that raise FDI and banking flows by about 5--8 percent.
+  I show that sovereign wealth fund financing redirects recipient activity toward SWF home countries, especially when recipients have weaker outside financing options and when the home-country sector has strategic value. Crisis bank recapitalizations show similar redirection in syndicated lending.
 
 - [📄 *The Geoeconomic Role of Sovereign Wealth Funds: Effects on Global Trade*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5448434)  
   Each dollar invested by a developing-country SWF generates about 14 cents in additional exports to advanced economies, with SWFs acting as "credibility bridges" for weak home institutions.
